@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
-    "noticemode":"false",
+    "serverstatus":"true",
+    "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"VIP USER WAIT SERVER MAINTENANCE 9:00 ON!",
     "opentime":" Just wait",
     "libs":"https://github.com/LEGEND-CYBER-03/legend-vip/raw/refs/heads/main/legendvip.zip",
-    "notice_title":"important server updating play safe before",
+    "notice_title":"SUCCESSFULLY UPDATE PLAY SAFE",
     "notice_body":""
 }
